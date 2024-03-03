@@ -138,7 +138,7 @@ class Program
         Console.WriteLine("Subtotal: {0}", subT);
         Console.WriteLine("Total a pagar: {0}", totalProc);
     }
-    //El codigo del ejercio pudo ser mas corto haciendo concatenaciones, sin embargo funciona
-    //En un futuro vere si reduzco el ejercicio
+    //El codigo del ejercicio pudo ser mas corto haciendo concatenaciones, sin embargo funciona
+    //En un futuro vere si reduzco el codigo.
 
 }
