@@ -157,6 +157,8 @@ class Principal
         objBanco.AddCliente(new Cliente("009", "Luisa", "Femenino", 120000));
         objBanco.AddCliente(new Cliente("010", "Elizabeth", "Femenino", 1100));
         objBanco.AddCliente(new Cliente("011", "Sebastian", "Masculino", 55500));
+        objBanco.AddCliente(new Cliente("012", "laura", "Femenino", 300000));
+        objBanco.AddCliente(new Cliente("013", "Tomás", "Masculino", 100000));
         //...
         //y aqui hacemos uso de nuestros metodos
         Console.WriteLine("Saldo Promedio: "+ objBanco.CalcularPromedio());
