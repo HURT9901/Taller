@@ -1,7 +1,7 @@
 # Taller
 Taller 20%
-Taller nº 3 
-Brayan Alexis Rojas Correa
+Tema nº 3 
+Brayan Alexis Rojas Correa (22258414)
 Yaira Quintero Sampayo
 
 Repositorio del taller PS 20%
