@@ -12,7 +12,7 @@ class clientes
 
 
 }
-class Program
+class Clientes
 {
     static void Main(string[] args)
     {
@@ -20,7 +20,7 @@ class Program
 
         Clientes.Add(new clientes { nombre = "Andrés", Genero = "Masculino", numerocuenta = " 9123456789", tipocuenta = "Ahorro", Saldo = 1000000 });
         Clientes.Add(new clientes { nombre = "Marcela ", Genero = "Femenino", numerocuenta = "0310456789", tipocuenta = "Corriente", Saldo = -50000 });
-        Clientes.Add(new clientes { nombre = "Juanito", Genero = "Masculino", numerocuenta = "0310383879", tipocuenta = "Ahorro", Saldo = 284000 });
+        Clientes.Add(new clientes { nombre = "Felipe", Genero = "Masculino", numerocuenta = "0310383879", tipocuenta = "Ahorro", Saldo = 284000 });
         Clientes.Add(new clientes { nombre = "Gabriel", Genero = "Masculino", numerocuenta = "0320456678", tipocuenta = "Ahorro", Saldo = 5000000 });
         Clientes.Add(new clientes { nombre = "Francisco", Genero = "Masculino", numerocuenta = "0310383206", tipocuenta = "Corriente", Saldo = 900000 });
         Clientes.Add(new clientes { nombre = "Julieta", Genero = "Femenino", numerocuenta = "0305319254", tipocuenta = "Ahorro", Saldo = 500000 });
